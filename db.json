@@ -1,0 +1,116 @@
+{
+    "pizzas": [
+        {
+            "id": 1,
+            "name": "Маргарита",
+            "img": "https://unsplash.com/photo-1593642634444-4405e625fb9e?ixlib=rb-4.0.3&auto=format&fit=crop&w=870&q=80",
+            "price": 15,
+            "description": "Вкусная маргарита с сыром и томатами",
+            "cookingTime": "25 минут"
+        },
+        {
+            "id": 2,
+            "name": "Киевская",
+            "img": "https://images.unsplash.com/photo-1593642634444-4405e625fb9e?ixlib=rb-4.0.3&auto=format&fit=crop&w=870&q=80",
+            "price": 15,
+            "description": "Вкусная киевская пицца с грибами и курицей",
+            "cookingTime": "25 минут"
+        },
+        {
+            "id": 3,
+            "name": "Капричоза",
+            "img": "https://images.unsplash.com/photo-1593642634444-4405e625fb9e?ixlib=rb-4.0.3&auto=format&fit=crop&w=870&q=80",
+            "price": 20,
+            "description": "Вкусная капричоза с грибами, курицей и сыром",
+            "cookingTime": "30 минут"
+        },
+        {
+            "id": 4,
+            "name": "Кальцоне",
+            "img": "https://images.unsplash.com/photo-1589926181497-9a7f5e0b6b5f?ixlib=rb-4.0.3&auto=format&fit=crop&w=870&q=80",
+            "price": 12,
+            "description": "Вкусное кальцоне с сыром и ветчиной",
+            "cookingTime": "20 минут"
+        },
+        {
+            "id": 5,
+            "name": "4 сыра",
+            "img": "https://images.unsplash.com/photo-1593642634444-4405e625fb9e?ixlib=rb-4.0.3&auto=format&fit=crop&w=870&q=80",
+            "price": 18,
+            "description": "Вкусная пицца с четырьмя разными видами сыра",
+            "cookingTime": "30 минут"
+        },
+        {
+            "id": 6,
+            "name": "Пепперони",
+            "img": "https://images.unsplash.com/photo-1602781631458-59ed4c5c94d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=400",
+            "price": 17,
+            "description": "Пицца с пепперони и сыром",
+            "cookingTime": "20 минут"
+        },
+        {
+            "id": 7,
+            "name": "Гавайская",
+            "img": "https://images.unsplash.com/photo-1602781631458-59ed4c5c94d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=400",
+            "price": 19,
+            "description": "Пицца с ананасами и ветчиной",
+            "cookingTime": "25 минут"
+        },
+        {
+            "id": 8,
+            "name": "Вегетарианская",
+            "img": "https://images.unsplash.com/photo-1602781631458-59ed4c5c94d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=400",
+            "price": 16,
+            "description": "Пицца с овощами и сыром",
+            "cookingTime": "30 минут"
+        },
+        {
+            "id": 9,
+            "name": "Мексиканская",
+            "img": "https://images.unsplash.com/photo-1602781631458-59ed4c5c94d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=400",
+            "price": 20,
+            "description": "Острая пицца с перцем и колбасками",
+            "cookingTime": "35 минут"
+        },
+        {
+            "id": 10,
+            "name": "Чикен",
+            "img": "https://images.unsplash.com/photo-1602781631458-59ed4c5c94d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=400",
+            "price": 22,
+            "description": "Пицца с курицей и грибами",
+            "cookingTime": "30 минут"
+        },
+        {
+            "id": 11,
+            "name": "Сырная",
+            "img": "https://images.unsplash.com/photo-1602781631458-59ed4c5c94d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=400",
+            "price": 14,
+            "description": "Пицца с разными видами сыра",
+            "cookingTime": "25 минут"
+        },
+        {
+            "id": 12,
+            "name": "Грибная",
+            "img": "https://images.unsplash.com/photo-1602781631458-59ed4c5c94d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=400",
+            "price": 16,
+            "description": "Пицца с грибами и сыром",
+            "cookingTime": "30 минут"
+        },
+        {
+            "id": 13,
+            "name": "Лазанья",
+            "img": "https://images.unsplash.com/photo-1589926181497-9a7f5e0b6b5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=400",
+            "price": 25,
+            "description": "Вкусная лазанья с мясом и соусом",
+            "cookingTime": "45 минут"
+        },
+        {
+            "id": 14,
+            "name": "Креветочная",
+            "img": "https://images.unsplash.com/photo-1589926181497-9a7f5e0b6b5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=400",
+            "price": 30,
+            "description": "Пицца с креветками и сыром",
+            "cookingTime": "35 минут"
+        }
+    ]
+}

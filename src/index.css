@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+footer {
+    transition: all 0.3s ease;
+}
+
+footer a:hover {
+    color: #FFD700;
+}
+
+footer a {
+    transition: all 0.3s ease;
+}
